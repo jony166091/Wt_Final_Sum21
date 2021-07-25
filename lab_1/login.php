@@ -7,7 +7,7 @@ $err_pass="";
 
 $hasError=false;
 
-$users= array("Farjum"=>"1234","sabbir" =>"5678","karim" =>"123" );
+$users= array("Israfil"=>"1837844","Jony" =>"4567","Abdulla" =>"879" );
 
 if($_SERVER["REQUEST_METHOD"] == "POST"){
 
